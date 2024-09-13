@@ -1,7 +1,7 @@
 .voice-widget {
   padding: 20px;
   border-radius: 10px;
-  text-align: center;
+  text-align: right;
   background-color: #e66a8e;
   transition: background-color 1s ease;
   color: white;
@@ -24,7 +24,7 @@
 
 .top-container {
   display: flex;
-  align-items: center;
+  align-items: right;
   margin-bottom: 10px;
 }
 .Photo {
